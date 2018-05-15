@@ -23,6 +23,7 @@ Elliott Ieremia
 Samuel Boahen 
 
 GOAL
+
 Creation of a server that hosts a database which holds temperature and humidity data from up to 3 data gathering boxes.
 Server must have a login system and graphs for displaying each box's data.  The data must be able to be selected and displayed within a giving date range.
 
