@@ -18,6 +18,7 @@ This repository documents my class work and projects done for **CPS342**
    3. __Class End Date:__ May 8, 2018
 
 TEAM MEMBERS
+
 Ryan Zarou 
 Elliott Ieremia
 Samuel Boahen 
@@ -29,21 +30,28 @@ Server must have a login system and graphs for displaying each box's data.  The 
 
 
 TEAM MEMBER ROLES, RESPONSIBILITIES, AND CONTRIBUTIONS
+
 Contribution of each partner. List what each person did, and what each person’s future role for the project.
 
 
 Ryan
+
 Major:                     		Computer Science
+
 Skills/Specialties:                 	Python, Java
+
 Willing to Work On:                 	Creating database / collecting data
 
 Accomplished:					Database data to graph.  Launching off point for most requirements.
 
 
 Elliott
+
 Major:                     		Computer Science
+
 Skills/Specialties :                	Java, Jury-rigging code with duct-tape and 
                                       hope to provide a base for someone who knows what they’re doing
+                                      
 Willing to Work On:                 	Anything, Assisting in all areas when possible
 
 Accomplished:					Auto-temperature + humidity gathering and storing.  Date range selection of data.
@@ -51,8 +59,11 @@ Accomplished:					Auto-temperature + humidity gathering and storing.  Date range
 
 
 Sam
+
 Major:                     		Computer Engineering
+
 Skills/Specialties:                 Digital Logic, Programming (C/C++ ; Java ; Verilog)
+
 Willing to Work On:                	Presentations/Slides, HTML
 
 Accomplished:					User Interface and log in system.
